@@ -3,7 +3,7 @@ import json
 import os
 import time
 
-API_KEY = "REMOVED_API_KEY"  # <-- Buraya kendi VirusTotal Public API anahtarınızı girin
+API_KEY = "API KEY"  # <-- Buraya kendi VirusTotal Public API anahtarınızı girin
 API_URL = "https://www.virustotal.com/api/v3/ip_addresses/"
 HEADERS = {
     "x-apikey": API_KEY
